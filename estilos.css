@@ -1,4 +1,4 @@
-/* importamos las fuentes */
+/* Fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700&family=Yellowtail&display=swap');
 *{
     font-family: "Titillium Web";
@@ -31,7 +31,7 @@ html{
 .inicio .contenido-seccion header{
     padding: 30px;
 }
-/* menu lateral */
+/* Menú lateral */
 .inicio .contenido-seccion header nav{
     position: fixed;
     margin-left: -35px;
@@ -126,7 +126,7 @@ html{
     top: -100px;
     transform: translateX(-50%);
 }
-/* estilos generales */
+/* Estilos generales */
 .titulo-seccion{
     font-family: "Yellowtail";
     font-size: 2.0rem;
